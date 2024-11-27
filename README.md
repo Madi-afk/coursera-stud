@@ -1,2 +1,1 @@
-# coursera-stud
-passing course
+
